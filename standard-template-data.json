@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-06T10:09:56.407151121Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-10T10:35:16.218254618Z",
     "templateType": "trip_b",
     "propertyId": "3ee91e48-5e30-41f8-9bac-6a1d2f5c4ce2",
     "homepageId": "01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e"
@@ -1591,35 +1591,40 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705129-g0us9wc6tl.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e"
                     },
                     {
                       "id": "01a1a56c-8f16-75aa-a8e7-72c58f7b0e2d",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705252-88j2hpc5pz.webp",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e"
                     },
                     {
                       "id": "01a1a56c-8f00-723d-8a45-b6dbc2cfc1af",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705385-nla2ylm4z3.webp",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e"
                     },
                     {
                       "id": "01a1a56c-8f02-79c3-aee9-ad9d71c462aa",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705413-4dmr6bracb.webp",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e"
                     },
                     {
                       "id": "01a1a56c-8f3d-706f-8f78-cc87f511204f",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705487-og2gjfrjyd.jpg",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e"
                     }
                   ],
                   "blockId": "87f85272-f0da-4c9a-943c-dc6b31dc460e",
@@ -1633,35 +1638,40 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705622-u4fhw2qxk0.jpg",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "74c768c9-414e-413b-b4c8-52847710df0f"
                     },
                     {
                       "id": "01a1a56c-8f44-756b-9b2b-1190d0df54ee",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705643-ezbaxv5lo4.jpg",
                       "sortOrder": 6,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "74c768c9-414e-413b-b4c8-52847710df0f"
                     },
                     {
                       "id": "01a1a56c-8f3e-7340-9ad6-9499cb79c329",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705129-g0us9wc6tl.jpg",
                       "sortOrder": 7,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "74c768c9-414e-413b-b4c8-52847710df0f"
                     },
                     {
                       "id": "01a1a56c-8f4d-7a40-8d5b-79cc27ed6b24",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705671-gaslzlznk4.webp",
                       "sortOrder": 8,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "74c768c9-414e-413b-b4c8-52847710df0f"
                     },
                     {
                       "id": "01a1a56c-8f3d-7a50-85f2-20d9a1735ab6",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/main_about/1793776705832-rqqk3xwztr.webp",
                       "sortOrder": 9,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "74c768c9-414e-413b-b4c8-52847710df0f"
                     }
                   ],
                   "blockId": "74c768c9-414e-413b-b4c8-52847710df0f",
@@ -1826,7 +1836,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706454-ah806n7r1d.webp",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "3411d36c-efeb-4a88-ba44-5e38d2b0d0bd"
                     }
                   ],
                   "blockId": "3411d36c-efeb-4a88-ba44-5e38d2b0d0bd",
@@ -1840,7 +1851,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706503-37r8bjxkno.webp",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "3e2eaa49-87ff-4e73-add6-58bb8f8ffe71"
                     }
                   ],
                   "blockId": "3e2eaa49-87ff-4e73-add6-58bb8f8ffe71",
@@ -1854,7 +1866,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706507-ewv21hqtbm.webp",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "de4c0dbe-da58-4ef1-accb-b7b21034c0c5"
                     }
                   ],
                   "blockId": "de4c0dbe-da58-4ef1-accb-b7b21034c0c5",
@@ -1868,7 +1881,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706710-5cypjquq4h.webp",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "9ca1cb75-b2cf-4cf6-bff6-edfcdb715abd"
                     }
                   ],
                   "blockId": "9ca1cb75-b2cf-4cf6-bff6-edfcdb715abd",
@@ -1882,7 +1896,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706742-rtlfj6bkah.webp",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "1e56d382-dbab-447f-9b34-70ec3e77c84c"
                     }
                   ],
                   "blockId": "1e56d382-dbab-447f-9b34-70ec3e77c84c",
@@ -1896,7 +1911,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706746-209v85fzml.webp",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "18905ab7-371b-4f4d-9ad8-34c3fbb26be0"
                     }
                   ],
                   "blockId": "18905ab7-371b-4f4d-9ad8-34c3fbb26be0",
@@ -1910,7 +1926,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706762-o8fjs31yg4.webp",
                       "sortOrder": 6,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "a1a9e846-634f-4508-8b4f-10ad73b71231"
                     }
                   ],
                   "blockId": "a1a9e846-634f-4508-8b4f-10ad73b71231",
@@ -1924,7 +1941,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a56c-4fc8-719e-a6f5-8f9f9a595b8e/nearby_attractions_about/1793776706800-ipn2ns6lcz.webp",
                       "sortOrder": 7,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "f211e9e6-6546-4b5d-9116-f790ba79bd70"
                     }
                   ],
                   "blockId": "f211e9e6-6546-4b5d-9116-f790ba79bd70",
@@ -2915,7 +2933,9 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "calendarUrl": "https://www.bookingplay.co.kr/partner/item/1908/calendar_list/",
+        "ruralStayMarks": [ ]
       }
     }
   }
